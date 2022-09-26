@@ -23,7 +23,7 @@
 - 🧭 How to reach me **[Hardling Development](github.com/discord.night.net)**
 
 <p align="center">
-    <a href="https://discord.com/users/323628238104690688" target="_blank" rel="nofollow">
+    <a href="https://discord.com/users/852937226375397387" target="_blank" rel="nofollow">
         <img src="https://lanyard-profile-readme.vercel.app/api/323628238104690688?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
     </a>
 </p>
