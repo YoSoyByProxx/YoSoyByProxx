@@ -24,13 +24,13 @@
 #
 # Information
 
--  I’m currently learnig Css, C++, Java, JavaScript, Maven, Linux, Json
+-  💻 I’m currently learnig Css, C++, Java, JavaScript, Maven, Linux, Json
 
-- You can contact me by discord YoSoyByProxx#1026
+- 🔎 You can contact me by discord YoSoyByProxx#1026
 
-- You can also visit my development community **[Hardling Development](https://discord.gg/hardling)**
+- 🌿 You can also visit my development community **[Hardling Development](https://discord.gg/hardling)**
 
-- My YouTube Channel **[YoSoyByProxx](https://www.youtube.com/channel/UC90vo3UvS0BdixgFFVTWeEQ)**
+- 📌 My YouTube Channel **[YoSoyByProxx](https://www.youtube.com/channel/UC90vo3UvS0BdixgFFVTWeEQ)**
 
 <p align="center">
     <a href="https://discord.com/users/852937226375397387" target="_blank" rel="nofollow">
