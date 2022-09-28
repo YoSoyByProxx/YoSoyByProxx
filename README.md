@@ -20,4 +20,3 @@
 - 🚀 I’m currently learnig Java, C++ and JavaScript,
 
 - 🌿 How to reach me **[Hardling Development](https://discord.gg/hardling)**
-- 
