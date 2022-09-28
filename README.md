@@ -24,12 +24,13 @@
 #
 # Information
 
--  I’m currently learnig Css, C++, Java, JavaScript, Maven, Linux, Json <img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+-  I’m currently learnig Css, C++, Java, JavaScript, Maven, Linux, Json
 
-- You can contact me by discord YoSoyByProxx#1026 | You can also visit my development community **[Hardling Development](https://discord.gg/hardling)** <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+- You can contact me by discord YoSoyByProxx#1026
 
+- You can also visit my development community **[Hardling Development](https://discord.gg/hardling)**
 
-- My YouTube Channel <img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+- My YouTube Channel **[YoSoyByProxx](https://www.youtube.com/channel/UC90vo3UvS0BdixgFFVTWeEQ)**
 
 <p align="center">
     <a href="https://discord.com/users/852937226375397387" target="_blank" rel="nofollow">
