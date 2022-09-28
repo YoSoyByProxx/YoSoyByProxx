@@ -26,7 +26,7 @@
 
 - 🚀 I’m currently learnig Css, C++, Java, JavaScript, Maven, Linux, Json,
 
--<img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> 📌 You can contact me by discord | YoSoyByProxx#1026
+- 📌 You can contact me by discord | YoSoyByProxx#1026 <img align="left" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 
 
 - 🌿 How to reach me **[Hardling Development](https://discord.gg/hardling)**
