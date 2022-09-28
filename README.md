@@ -15,8 +15,6 @@
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="left" style="padding-right:10px;" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img align="left" style="padding-right:10px;" src="" />
-<img align="left" style="padding-right:10px;" src="" />
 
 <br />
 
