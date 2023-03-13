@@ -28,8 +28,6 @@
 
 - 🔎 You can contact me by discord YoSoyByProxx#1026
 
-- 🌿 You can also visit my development community **[Hardling Development](https://discord.gg/hardling)**
-
 - 📌 My YouTube Channel **[YoSoyByProxx](https://www.youtube.com/channel/UC90vo3UvS0BdixgFFVTWeEQ)**
 
 <p align="center">
